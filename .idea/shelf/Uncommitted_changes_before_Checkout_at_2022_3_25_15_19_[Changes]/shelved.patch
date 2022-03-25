@@ -1,0 +1,14 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># docker-whale\r\n\r\nRun me : `docker run -p80:80 ushamandya/whale-example`\r\n\r\nBuild me: `docker build -t ushamandya/whale-example .`\r\n
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	
++++ b/README.md	
+@@ -3,3 +3,5 @@
+ Run me : `docker run -p80:80 ushamandya/whale-example`
+ 
+ Build me: `docker build -t ushamandya/whale-example .`
++
++test git tag
