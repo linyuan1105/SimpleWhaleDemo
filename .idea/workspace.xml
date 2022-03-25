@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="867c558d-9381-4815-b6aa-46e90e9d6293" name="Changes" comment="" />
+    <list default="true" id="867c558d-9381-4815-b6aa-46e90e9d6293" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_3_25_15_19__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_3_25_15_19__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_3_25_15_19__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_3_25_15_19__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -46,7 +51,8 @@
       <workItem from="1647880456299" duration="39000" />
       <workItem from="1648185538735" duration="7000" />
       <workItem from="1648185629116" duration="256000" />
-      <workItem from="1648190838581" duration="1543000" />
+      <workItem from="1648190838581" duration="2016000" />
+      <workItem from="1648194110610" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1648193075703</created>
